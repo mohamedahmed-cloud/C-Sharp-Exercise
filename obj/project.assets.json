@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/mohamedyousef/New Volume/Net/dotnet/dotnet.csproj",
+      "projectUniqueName": "/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/dotnet.csproj",
       "projectName": "dotnet",
-      "projectPath": "/media/mohamedyousef/New Volume/Net/dotnet/dotnet.csproj",
+      "projectPath": "/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/dotnet.csproj",
       "packagesPath": "/home/mohamedyousef/.nuget/packages/",
-      "outputPath": "/media/mohamedyousef/New Volume/Net/dotnet/obj/",
+      "outputPath": "/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mohamedyousef/.nuget/NuGet/NuGet.Config"

@@ -13,3 +13,18 @@
 /media/mohamedyousef/New Volume/Net/dotnet/obj/Debug/net7.0/dotnet.pdb
 /media/mohamedyousef/New Volume/Net/dotnet/obj/Debug/net7.0/dotnet.genruntimeconfig.cache
 /media/mohamedyousef/New Volume/Net/dotnet/obj/Debug/net7.0/ref/dotnet.dll
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/dotnet.csproj.AssemblyReference.cache
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfoInputs.cache
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfo.cs
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/dotnet.csproj.CoreCompileInputs.cache
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/dotnet.dll
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/refint/dotnet.dll
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/dotnet.pdb
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/bin/Debug/net7.0/dotnet
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/bin/Debug/net7.0/dotnet.deps.json
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/bin/Debug/net7.0/dotnet.runtimeconfig.json
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/bin/Debug/net7.0/dotnet.dll
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/bin/Debug/net7.0/dotnet.pdb
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/dotnet.genruntimeconfig.cache
+/media/mohamedyousef/New Volume/2.Programming/2.My Repos/6.ProgrammingLanguage/C#/dotnet/obj/Debug/net7.0/ref/dotnet.dll
